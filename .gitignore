@@ -1,0 +1,3 @@
+# Dirs to be ignored
+/.vscode
+/build
